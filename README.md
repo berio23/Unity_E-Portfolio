@@ -14,7 +14,7 @@ to crate a neat space shooter game with you! We will go through all the importan
 ```
 
 If you wish to create the game alongside me, please download Unity from [here](https://unity3d.com/de/get-unity/download) and make sure to create a new project in order to see if everything works. Also make sure to install Visual Studio so you can Code along. You can use your Dualis login for it as we have a license for students. 
-And one more thing, please install [this](https://drive.google.com/file/d/1IRgjBuE2WwECPDflF_0_eODGhWdTguS7/view?usp=sharing) Asset Folder which contains all the assets we will be using
+And one more thing, please install [this](https://drive.google.com/file/d/1IRgjBuE2WwECPDflF_0_eODGhWdTguS7/view?usp=sharing) Asset Folder which contains all the assets we will be using.
 
 ## Basic Infomation
 Unity is a game engine and IDE developed and published by Unity Technologies. It is considered one of the most widely known and used game engines
